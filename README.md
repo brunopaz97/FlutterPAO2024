@@ -1,16 +1,8 @@
-# myapp
+# FlutterPAO2024
 
-A new Flutter project.
+Proyecto desarrollado con Flutter
 
-## Getting Started
+## Empezando
 
-This project is a starting point for a Flutter application.
+Este proyecto se ha realizado como parte del entregable del Informe N° 1 de la orden de Servicio 505 de título "Servicio de Identificación de requerimientos para implementación de sistemas"
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
